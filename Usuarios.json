@@ -1,0 +1,32 @@
+{
+    "Users": [
+      {
+        "id": 1,
+        "IdPerfil": "1",
+        "NombreUsuario": "11281",
+        "Pass": "Josep_161",
+        "Estatus": "SIn tareas",
+        "FechaRegistro": "2023-08-21",
+        "IdSucursal": 1
+      },
+      {
+        "id": 2,
+        "IdPerfil": "2",
+        "NombreUsuario": "11282",
+        "Pass": "Josep_166",
+        "Estatus": "SIn tareas",
+        "FechaRegistro": "2023-08-21",
+        "IdSucursal": 2
+      },
+      {
+        "id": 3,
+        "IdPerfil": "3",
+        "NombreUsuario": "11283",
+        "Pass": "12345678",
+        "Estatus": "soltero",
+        "FechaRegistro": "2023-08-21",
+        "IdSucursal": 3
+      }
+    ]
+  }
+  
